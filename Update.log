@@ -1,18 +1,26 @@
-*Added New ScoreBoard
+*Added New Scoreboard
 *Added Rougue Class
 *Added Fast Brew & Fast Smelt For Donators
 *Added LFF Command
 *Added Cobble Command
 *Added Subclaims
-*Added F Foucus
+*Added F Foucus Command
 *Added Redis Support
-*Added MYSQL Support
 *Fixed Archer & Bard Class
-*Fixed Claim Wand Dupe Glitch
 *Fixed Crowbar Dupe
 *Fixed Claiming Bug
-*Fixed Mem Leak
 ---------------------------------------------------
 [21/10/17]
+AkumaDev/Layton
+---------------------------------------------------
+*Implemented Iridium Tablist Api
+*Implemented Radium Scoreboard Api
+*Implemented Fanciful 
+*Removed Current MySQL support
+*Fixed scoreboard Timers
+*Fixed Claim wand Dupe Glitch
+*Fixed Claim Pillars
+---------------------------------------------------
+[18/12/17]
 AkumaDev/Layton
 ---------------------------------------------------
