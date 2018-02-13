@@ -1,10 +1,16 @@
 Hurricane:
 
+
+
+
 Hurricane is an open source HCF core for the users of MCMarket.
 
 
 
 Dependencies:
+
+
+
 
 Iridium - This is used for Scoreboard to work.
 
@@ -19,6 +25,9 @@ Fanciful - Lightweight library offering pleasant chat message formatting for Buk
 
 
 Contact Information:
+
+
+
 
 MCM: Layton.
 
