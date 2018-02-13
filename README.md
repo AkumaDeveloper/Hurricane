@@ -4,8 +4,6 @@ Hurricane is an open source HCF core for the users of MCMarket.
 
 
 Dependencies:
-
-
 Iridium - This is used for Scoreboard to work.
 Radium - This is used for the Tablist to work.
 Cobalt - A paper spigot fork that has certain events or hurricane to work.
